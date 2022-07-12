@@ -15,7 +15,7 @@
 ## Usage
 
 Execute `make` then `./tetris`
-Check out the B-MUL-200_my_world.pdf for more information or add the `--help` option
+Check out the B-PSU-200_tetris.pdf for more information or add the `--help` option
 
 ## Credits
 Joris FRANCIN
